@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+table, th ,td {
+    background-color: aqua;
+    border: 2px solid black ;
+    padding: 10px;
+    border-radius: 10px;
+}
+table, tr{
+    background-color: darkgray;
+}
+.container{
+    margin: 50px;
+}
+
+
+a {
+    text-decoration: none;
+}
